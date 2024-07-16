@@ -19,12 +19,14 @@ h1{
 input{
     height: 30px;
     width: 210px;
+    color: #66AFE9;
 }
 
 button{
     height: 37px;
     /* width: 210px; */
     margin-left: 10px;
+    color: #343A40;
 }
 
 .two{
