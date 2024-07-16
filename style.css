@@ -1,3 +1,7 @@
+body{
+    background-color: #F5F5DC;
+}
+
 .container{
     display: flex;
     flex-direction: column;
@@ -9,6 +13,7 @@
 h1{
     align-items: center;
     margin-left: 600px;
+    color: #800080;
 }
 
 input{
@@ -24,4 +29,5 @@ button{
 
 .two{
     margin-left: -175px;
+    margin-top: 20px;
 }
