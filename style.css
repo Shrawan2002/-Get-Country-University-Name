@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+h1{
+    align-items: center;
+    margin-left: 600px;
+}
+
+input{
+    height: 30px;
+    width: 210px;
+}
+
+button{
+    height: 37px;
+    /* width: 210px; */
+    margin-left: 10px;
+}
+
+.two{
+    margin-left: -250px;
+}
